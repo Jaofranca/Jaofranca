@@ -10,3 +10,5 @@ Hello,I'm João, a Flutter developer and a Computer science student at Instituto
 I really like to see my ideas coming to life,so programming was the best way that i could find to do this,using my creativity to solve problems and develop nice things is what i like to do, i hope that in the future i could work with this  and continue putting my ideas on the world.
 
 I mostly build fun apps to train my knowledge, but my objective is to develop something that could help people and make some lives simpler.
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoFranca&hide=html&layout=compact&theme=dark%22" />
