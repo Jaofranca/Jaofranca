@@ -10,6 +10,6 @@ Im a Mobile developer and a computer science student at instituto federal do cea
 
 
 
-   <a href="https://github.com/kevinjycui/kevinjycui" target="_blank"><img alt="GitHub status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoFranca&hide=html&layout=compact&theme=dark%22"></a>
+   <a href="" target="_blank"><img alt="GitHub status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoFranca&hide=html&layout=compact&theme=dark%22"></a>
 
 
