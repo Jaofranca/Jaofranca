@@ -34,11 +34,11 @@ Im a Mobile developer and a computer science student at instituto federal do Cea
 
 ### Working on:
 <p >
-  <a href="https://github.com/JaoFranca/GameLauncher">
+  <a href="https://github.com/Jaofranca/YourGameLauncher">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=JaoFranca&repo=GameLauncher&theme=synthwave">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=JaoFranca&repo=YourGameLauncher&theme=synthwave">
     </img>
   </a>
 </p>
