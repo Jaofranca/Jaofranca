@@ -22,9 +22,7 @@ Im a Mobile developer and a computer science student at instituto federal do Cea
   
 ##
   
-<div> 
-
-
+<div>
  <p>
   <a href="https://www.linkedin.com/in/joaovfranca/" target="_blank"><img alt="GitHub status" src="https://github-readme-stats.vercel.app/api?username=jaoFranca&count_private=true&theme=synthwave"></a>
  <a href="https://www.linkedin.com/in/joaovfranca/" target="_blank"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaofranca&hide=shaderlab,cmake&layout=compact&theme=synthwave"></a>
