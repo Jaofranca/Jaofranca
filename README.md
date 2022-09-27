@@ -21,20 +21,20 @@ Im a Mobile developer and a computer science student at instituto federal do Cea
   <img href="https://github.com/Jaofranca?tab=repositories&language=python" align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 ##
-  
-<div>
- <p>
-  <a href="https://www.linkedin.com/in/joaovfranca/" target="_blank"><img alt="GitHub status" src="https://github-readme-stats.vercel.app/api?username=jaoFranca&count_private=true&theme=synthwave"></a>
- <a href="https://www.linkedin.com/in/joaovfranca/" target="_blank"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaofranca&hide=shaderlab,cmake&layout=compact&theme=synthwave"></a>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/joaovfranca/">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jaoFranca&count_private=true&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaofranca&hide=shaderlab,cmake&layout=compact&theme=synthwave"/>
+</a>
 </p>
  
  
 
-### Working on:
-<p >
+### 🛠 Working on:
+<p align="center">
   <a href="https://github.com/Jaofranca/YourGameLauncher">
     <img
-      align="center"
       height="120em"
       src="https://github-readme-stats.vercel.app/api/pin/?username=JaoFranca&repo=YourGameLauncher&theme=synthwave">
     </img>
